@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.images-amigos{
+    height: auto o !important;
+}
+
+#input{
+    display: flex;
+    justify-content: center;
+}
+#form {
+    border: 2px solid #000; /* Borde sólido de 2px de grosor y color negro */
+    padding: 20px; /* Añade espacio interno alrededor del contenido */
+}
